@@ -184,11 +184,11 @@ span {
 @keyframes words {
   0%,
   20% {
-    content: " web Developer";
+    content: " Web Developer";
   }
   21%,
   40% {
-    content: " Machine learnig";
+    content: " Skilled Machine Learning professional.";
   }
   41%,
   60% {
@@ -196,7 +196,7 @@ span {
   }
   61%,
   80% {
-    content: " Content Manager";
+    content: " Cntent Manager";
   }
   81%,
   100% {
