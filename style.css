@@ -184,7 +184,7 @@ span {
 @keyframes words {
   0%,
   20% {
-    content: " Web Developer";
+    content: " Web Developer.";
   }
   21%,
   40% {
@@ -192,15 +192,15 @@ span {
   }
   41%,
   60% {
-    content: " UI / UX Designer";
+    content: " UI / UX Designer.";
   }
   61%,
   80% {
-    content: " Cntent Manager";
+    content: " Content Manager.";
   }
   81%,
   100% {
-    content: " Software Tester";
+    content: " Software Tester.";
   }
 }
 @keyframes typing {
