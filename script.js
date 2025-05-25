@@ -29,3 +29,4 @@ menuIcon.onclick = () => {
   menuIcon.classList.toggle("bx-x"); // Toggle the icon class for styling
   navbar.classList.toggle("active"); // Toggle the navbar visibility
 };
+//mahaz
